@@ -6,7 +6,7 @@ public class Main {
         System.out.println(DayOfWeek.SUNDAY.getNextDay());
         for (DayOfWeek day: DayOfWeek.values()) {
             System.out.println(day.getNextDay());
-            DayOfWeek.valueOf()
+//            DayOfWeek.valueOf()
         }
     }
     enum Days{
